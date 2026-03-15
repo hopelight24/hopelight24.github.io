@@ -1,0 +1,475 @@
+{
+    "common": {
+        "logo": "settings\\November2022\\RKztgQvScQKaYOAdcnLM.png",
+        "site_name": "Sazzad Mahmud",
+        "api_base_url": "https://hopelight24.github.io",
+        "api_storage_url": "https://portfolio.empressit.com/public/storage"
+    },
+    "banner": {
+        "site_name": "Sazzad Mahmud",
+        "work_on": "Full Stack Developer",
+        "description": "I'm a freelance web developer. I help creators, small businesses and organizations bring their ideas to life. I turn your requirements into CMS-ified and ecommerce-ified websites - on time and on budget.",
+        "cv_download": "[{\"download_link\":\"settings\\\\December2022\\\\JfkhHJLuHtaU1T4VpK1E.pdf\",\"original_name\":\"cv.pdf\"}]",
+        "copyright": "© All Rights Reserved By <span>Sazzad</span>",
+        "socials": {
+            "facebook": "https://www.facebook.com/hopelight24",
+            "github": "https://github.com/hopelight24",
+            "linkedin": "https://www.linkedin.com/in/sazzad-mahmud-76b369154/",
+            "skype": "skype:aputhechamp?chat"
+        }
+    },
+    "about": {
+        "work_on": "Full Stack Developer",
+        "description": "If you have a website or mobile app idea in mind or you need some advice about product design, feel free to contact me. Currently my time books quickly, so the sooner you write, the better it is for both of us.",
+        "photo": "settings\\December2022\\DzJqQFnaYwOODdYYkqVs.png",
+        "skills": [
+            {
+                "id": 4,
+                "language_name": "PHP",
+                "skill_point": 85
+            },
+            {
+                "id": 5,
+                "language_name": "Wordpress",
+                "skill_point": 80
+            },
+            {
+                "id": 6,
+                "language_name": "Codeigniter",
+                "skill_point": 80
+            },
+            {
+                "id": 7,
+                "language_name": "Laravel",
+                "skill_point": 75
+            },
+            {
+                "id": 8,
+                "language_name": "MySQL",
+                "skill_point": 80
+            },
+            {
+                "id": 9,
+                "language_name": "React JS",
+                "skill_point": 75
+            }
+        ],
+        "counters": [
+            {
+                "id": 1,
+                "title": "Years Experience",
+                "value": 8,
+                "icon": "<i class=\"fa-regular fa-badge-check\"></i>"
+            },
+            {
+                "id": 2,
+                "title": "Completed Projects",
+                "value": 50,
+                "icon": "<i class=\"fa-solid fa-list-check\"></i>"
+            },
+            {
+                "id": 3,
+                "title": "Happy Clients",
+                "value": 30,
+                "icon": "<i class=\"fa-thin fa-users\"></i>"
+            },
+            {
+                "id": 4,
+                "title": "Cups Of Tea",
+                "value": 90,
+                "icon": "<i class=\"fa-light fa-mug-hot\"></i>"
+            }
+        ],
+        "choose": [
+            {
+                "id": 4,
+                "icon": "<i class=\"fa-regular fa-flashlight\"></i>",
+                "title": "1. Research",
+                "description": "We work with you to understand user’s stories and validate your idea with real users using lean design sprints.",
+                "type": "choose"
+            },
+            {
+                "id": 5,
+                "icon": "<i class=\"fa-regular fa-object-group\"></i>",
+                "title": "2. Design",
+                "description": "Expanding on the insights gained, you’ll work closely with our design team to create an elegant design",
+                "type": "choose"
+            },
+            {
+                "id": 6,
+                "icon": "<i class=\"fa-sharp fa-solid fa-building-circle-check\"></i>",
+                "title": "3. Build",
+                "description": "With our scrum-based agile methodology, you’ll receive iterative builds every two weeks, which gives you",
+                "type": "choose"
+            }
+        ],
+        "experiences": [
+            {
+                "id": 5,
+                "company_name": "TYM Soft Ltd.",
+                "location": "Plymouth, UK",
+                "duration": "2022 - Continue"
+            },
+            {
+                "id": 4,
+                "company_name": "Cansoft Technology",
+                "location": "Vancouver, Canada",
+                "duration": "2019 - 2021"
+            },
+            {
+                "id": 3,
+                "company_name": "Techno BD Ltd",
+                "location": "Dhaka, Bangladesh",
+                "duration": "2018"
+            },
+            {
+                "id": 2,
+                "company_name": "Flick Media Ltd",
+                "location": "Khulna, Bangladesh",
+                "duration": "2016 - 2018"
+            },
+            {
+                "id": 1,
+                "company_name": "Phase 3 Solution",
+                "location": "Dhaka, Bangladesh",
+                "duration": "2014 - 2016"
+            }
+        ],
+        "educations": [
+            {
+                "id": 4,
+                "institute_name": "IBAIS University",
+                "location": "Dhaka, Bangladesh",
+                "duration": "2012 - 2015"
+            },
+            {
+                "id": 3,
+                "institute_name": "Daulatpur College (Day-Night)",
+                "location": "Khulna, Bangladesh",
+                "duration": "2007 - 2009"
+            },
+            {
+                "id": 2,
+                "institute_name": "Mohsin Secondary High School",
+                "location": "Khulna, Bangladesh",
+                "duration": "2005 - 2007"
+            }
+        ]
+    },
+    "portfolio": {
+        "portfolioes": [
+            {
+                "id": 1,
+                "title": "Ponno Mela",
+                "cat_id": 1,
+                "start_date": "2016-11-15",
+                "end_date": "2017-03-30",
+                "rating": 5,
+                "url": "https://ponnomela.com/",
+                "photo": "portfolios/April2023/mcrQbawcRmurVG3VidKQ.jpg",
+                "category": {
+                    "id": 1,
+                    "title": "Laravel"
+                }
+            },
+            {
+                "id": 2,
+                "title": "Trust Your Move",
+                "cat_id": 1,
+                "start_date": "2022-01-01",
+                "end_date": "2023-04-09",
+                "rating": 5,
+                "url": "https://trustyourmove.com/login",
+                "photo": "portfolios/April2023/btZUAjH6NTRy8qaacEOs.jpg",
+                "category": {
+                    "id": 1,
+                    "title": "Laravel"
+                }
+            },
+            {
+                "id": 3,
+                "title": "Jenny Reilly",
+                "cat_id": 5,
+                "start_date": "2021-06-15",
+                "end_date": "2021-06-28",
+                "rating": 5,
+                "url": "https://jennyreilly.com/",
+                "photo": "portfolios/April2023/sbXnKtEwxWPhYO3CL4G2.jpg",
+                "category": {
+                    "id": 5,
+                    "title": "Wordpress"
+                }
+            },
+            {
+                "id": 4,
+                "title": "https://ssifp.ca/",
+                "cat_id": 5,
+                "start_date": "2021-04-07",
+                "end_date": "2021-04-16",
+                "rating": 5,
+                "url": "https://ssifp.ca/",
+                "photo": "portfolios/April2023/OrterGozYHiv7cJy6ls3.jpg",
+                "category": {
+                    "id": 5,
+                    "title": "Wordpress"
+                }
+            },
+            {
+                "id": 5,
+                "title": "Phyre Protein",
+                "cat_id": 5,
+                "start_date": "2021-12-03",
+                "end_date": "2021-12-17",
+                "rating": 5,
+                "url": "https://www.phyreprotein.ca/",
+                "photo": "portfolios/April2023/Ztb2FQrAMbAPG6YPwQyw.jpg",
+                "category": {
+                    "id": 5,
+                    "title": "Wordpress"
+                }
+            },
+            {
+                "id": 6,
+                "title": "Ms/JM Corporation",
+                "cat_id": 1,
+                "start_date": "2022-06-11",
+                "end_date": "2022-06-26",
+                "rating": 5,
+                "url": "https://msjmcorporation.com/",
+                "photo": null,
+                "category": {
+                    "id": 1,
+                    "title": "Laravel"
+                }
+            }
+        ],
+        "portfolio_cats": [
+            {
+                "id": 1,
+                "title": "Laravel"
+            },
+            {
+                "id": 2,
+                "title": "PHP"
+            },
+            {
+                "id": 3,
+                "title": "React"
+            },
+            {
+                "id": 4,
+                "title": "mobile app"
+            },
+            {
+                "id": 5,
+                "title": "Wordpress"
+            },
+            {
+                "id": 6,
+                "title": "Python"
+            },
+            {
+                "id": 7,
+                "title": "Node Js"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "name": "Shaikh Dardah",
+                "position": "CEO, Omuk Cosmetics",
+                "message": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias ab blanditiis pariatur explicabo consequatur ipsam tenetur molestias amet, quos libero vel, modi totam obcaecati dolorem corrupti odio! Praesentium, explicabo excepturi.",
+                "created_at": "2022-12-15T19:06:00.000000Z",
+                "updated_at": "2022-12-15T19:08:00.000000Z",
+                "photo": "testimonials\\December2022\\Tk4a8RyaRcAg2ekKtPK7.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Lara Hodgson",
+                "position": "Founder, Pader Music Player",
+                "message": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias ab blanditiis pariatur explicabo consequatur ipsam tenetur molestias amet, quos libero vel, modi totam obcaecati dolorem corrupti odio! Praesentium, explicabo excepturi.",
+                "created_at": "2022-12-15T19:08:40.000000Z",
+                "updated_at": "2022-12-15T19:08:40.000000Z",
+                "photo": "testimonials\\December2022\\JdPRac2U12TbrtnPaMY2.jpg"
+            }
+        ],
+        "clients": [
+            {
+                "id": 1,
+                "name": "Client 1",
+                "company_logo": "[{\"download_link\":\"clients\\\\December2022\\\\2tbm55vhb1clFePohzwx.png\",\"original_name\":\"client-1.png\"}]",
+                "company_url": null
+            },
+            {
+                "id": 2,
+                "name": "Client 2",
+                "company_logo": "[{\"download_link\":\"clients\\\\December2022\\\\J74lzxY69TiSZppfaOhX.png\",\"original_name\":\"client-2.png\"}]",
+                "company_url": null
+            },
+            {
+                "id": 3,
+                "name": "Client 3",
+                "company_logo": "[{\"download_link\":\"clients\\\\December2022\\\\aGoR9TWuYRXiIkFvwD82.png\",\"original_name\":\"client-3.png\"}]",
+                "company_url": null
+            },
+            {
+                "id": 4,
+                "name": "Client 4",
+                "company_logo": "[{\"download_link\":\"clients\\\\December2022\\\\cI0EtTfENzuN1ghOhdzi.png\",\"original_name\":\"client-4.png\"}]",
+                "company_url": null
+            },
+            {
+                "id": 5,
+                "name": "Client 5",
+                "company_logo": "[{\"download_link\":\"clients\\\\December2022\\\\XfY3eWVHsHa941UO9MFJ.png\",\"original_name\":\"client-5.png\"}]",
+                "company_url": null
+            },
+            {
+                "id": 6,
+                "name": "Client 6",
+                "company_logo": "[{\"download_link\":\"clients\\\\December2022\\\\q7synROWKdmFxuEMw3wb.png\",\"original_name\":\"client-6.png\"}]",
+                "company_url": null
+            },
+            {
+                "id": 7,
+                "name": "Client 7",
+                "company_logo": "[{\"download_link\":\"clients\\\\December2022\\\\CCCRrWpcqnbLxXeHcvNI.png\",\"original_name\":\"client-7.png\"}]",
+                "company_url": null
+            }
+        ]
+    },
+    "service": {
+        "services": [
+            {
+                "id": 1,
+                "icon": "<i class=\"fa-light fa-spider-web\"></i>",
+                "title": "Web Application",
+                "description": "I offers a web application that is both creative and challenging. The web application is designed to help you develop a unique product that is 100% unique.",
+                "type": "service"
+            },
+            {
+                "id": 2,
+                "icon": "<i class=\"fa-brands fa-wordpress\"></i>",
+                "title": "Wordpress Development",
+                "description": "I offers a wordpress application as per your requirement. The wordpress application is designed to help you develop a unique product.",
+                "type": "service"
+            },
+            {
+                "id": 3,
+                "icon": "<i class=\"fa-regular fa-mobile\"></i>",
+                "title": "Mobile Application",
+                "description": "I offers a mobile application development service that is creative and challenging. I will work with you to develop unique applications that meet your specific needs and goals",
+                "type": "service"
+            }
+        ],
+        "price": [
+            {
+                "id": 1,
+                "cat_name": "SINGLE",
+                "icon": "<i class=\"fa-light fa-sun\"></i>",
+                "price_data": {
+                    "id": 1,
+                    "price_cat_id": 1,
+                    "work_name": "Web Designing",
+                    "single_price": 250,
+                    "small_hint": "p/pjct"
+                }
+            },
+            {
+                "id": 2,
+                "cat_name": "MULTIPLE",
+                "icon": "<i class=\"fa-light fa-medal\"></i>",
+                "price_data": null
+            },
+            {
+                "id": 3,
+                "cat_name": "DAY BASED",
+                "icon": "<i class=\"fa-light fa-sparkles\"></i>",
+                "price_data": null
+            }
+        ]
+    },
+    "gallery": [
+        {
+            "id": 1,
+            "title": "Gallery Photo 1",
+            "description": null,
+            "photo": "galleries/November2023/9464JRiKBEsXjQBRAjfX.WEBP"
+        },
+        {
+            "id": 2,
+            "title": "Gallery 2",
+            "description": null,
+            "photo": "galleries/November2023/xX79dv9FA4WbtFw1vyPA.WEBP"
+        },
+        {
+            "id": 3,
+            "title": "Gallery Photo 3",
+            "description": "Lorem Ipsum is simply dummy",
+            "photo": "galleries\\December2022\\7s1Tfd39ufN9gLxlulua.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Gallery 4",
+            "description": "of the printing and typesetting industry.",
+            "photo": "galleries\\December2022\\gtQrNqg5uNJYFHwINBCi.jpg"
+        }
+    ],
+    "blog": [
+        {
+            "id": 1,
+            "title": "First blog post",
+            "date": "2022-01-01 00:00:00",
+            "description": "dsa",
+            "image": "blog\\December2022\\coYZGxhBiaK3x2wbd8U9.png",
+            "cat_id": 1,
+            "cat": {
+                "id": 1,
+                "cat_name": "php"
+            }
+        },
+        {
+            "id": 2,
+            "title": "Blog 2",
+            "date": "2022-12-14 00:00:00",
+            "description": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>",
+            "image": "blog\\December2022\\3Vpzd59dLxiFB00bQdp0.jpg",
+            "cat_id": 3,
+            "cat": {
+                "id": 3,
+                "cat_name": "laravel"
+            }
+        },
+        {
+            "id": 3,
+            "title": "Blog post 3",
+            "date": "2022-12-11 00:00:00",
+            "description": "<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. <strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. <strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry.</p>",
+            "image": "blog\\December2022\\Kr5GzNrc4erMlvIf65Xt.jpg",
+            "cat_id": 4,
+            "cat": {
+                "id": 4,
+                "cat_name": "node js"
+            }
+        }
+    ],
+    "faq": [
+        {
+            "id": 1,
+            "question": "Do you provide after completion support?",
+            "answer": "Yes, I will provide you after project completion support which will be totally free of cost (Defined Scope) for 1 month."
+        },
+        {
+            "id": 2,
+            "question": "How much it will cost me?",
+            "answer": "We work on long term basis projects & short term basis projects. Budget will be based on your requirements complexity & how long it will take us to develop it. You can discuss your requirements with us & we can come to an agreement on budget."
+        }
+    ],
+    "contact": {
+        "contact_speech": "If you have a website or mobile app idea in mind or you need some advice about product design, feel free to contact me. Currently my time books quickly, so the sooner you write, the better it is for both of us.",
+        "phone": "<a href=\"tel:+8801912826522\">+8801912826522</a>\r\n<a href=\"tel:+8801912826522\">+8801912826522</a>",
+        "email": "<a href=\"mailto:opu.champ@gmail.com\">opu.champ@gmail.com</a>\r\n<a href=\"mailto:opu.champ@gmail.com\">opu.champ@gmail.com</a>",
+        "address": "27, Pabla, Daulatpur Bazar, Daulatpur, Khulna - 9202, Bangladesh",
+        "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8743.550018997015!2d89.52276221927183!3d22.86870207008169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff9a449ad8db39%3A0x7ee59c3619ee430b!2sDaulatpur%20Bazar!5e0!3m2!1sen!2sbd!4v1671178852325!5m2!1sen!2sbd\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    }
+}
